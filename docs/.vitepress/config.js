@@ -17,7 +17,7 @@ export default {
                     collapsible: true,
                     items: [
                         {
-                            text: '待定',
+                            text: '做题家',
                             link: '/frontend/javascript/1'
                         }
                     ],
