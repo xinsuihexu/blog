@@ -25,8 +25,12 @@ export default {
                             link: '/frontend/javascript/2'
                         },
                         {
-                            text: '常用正则',
+                            text: '入门正则',
                             link: '/frontend/javascript/3'
+                        },
+                        {
+                            text: '常用正则',
+                            link: '/frontend/javascript/4'
                         },
                     ],
                 },
